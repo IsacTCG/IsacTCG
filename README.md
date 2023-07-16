@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Isac.</h1>
-<h3 align="center">A ROBLOX Script Developer and a aspiring Python/JavaScript Developer. </h3>
+<h3 align="center">A ROBLOX Script Developer and a aspiring Python/NodeJS Developer. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsacTCG&label=Profile%20views&color=0e75b6&style=flat" alt="IsacTCG" /> </p>
 
 - 🔭 I’m currently working on [game development](https://discord.gg/brick)
 
-- 🌱 I’m currently learning **JavaScript/NodeJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 How to reach me: **[IsacTCG](https://discordapp.com/users/269775407732097024)**
 
