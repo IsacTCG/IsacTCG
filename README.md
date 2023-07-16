@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Isac.</h1>
 <h3 align="center">A ROBLOX Script Developer and a aspiring Python/JavaScript Developer. </h3>
 
