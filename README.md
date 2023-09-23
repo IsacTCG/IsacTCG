@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [game development](https://discord.gg/brick)
 
-- 🌱 I’m currently learning **LuaU**
+- 🌱 I’m currently learning **[LuaU](https://luau-lang.org/)**
 
 - 📫 How to reach me: **[IsacTCG](https://discordapp.com/users/269775407732097024)**
 
