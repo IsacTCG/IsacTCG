@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsacTCG&label=Profile%20views&color=0e75b6&style=flat" alt="IsacTCG" /> </p>
 
-- 🔭 I’m currently working on [game development](https://discord.gg/spectron)
+- 🔭 I’m currently working on [game development](https://discord.gg/brick)
 
 - 🌱 I’m currently learning **[LuaU](https://luau-lang.org/)**
 
